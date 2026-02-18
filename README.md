@@ -100,25 +100,25 @@ I followed a structured 3-phase statistical lifecycle to find patterns within a 
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ Tools & Skills:
 * **Environment:** Google Sheets
 * **Statistical Methods:** Central Tendency, Variability, Skewness, Pearson Correlation ($r$).
 * **Data Storytelling:** Converting abstract numbers into clear advice for curators.
 
 ---
 
-## 💡 Strategic Recommendations
+## 💡 Strategic Recommendations:
 1. **Optimize for "Perceived Intensity":** Prioritize tracks with an **Energy score > 0.70**. Since Energy and Loudness are highly correlated, ensuring a track is mastered competitively is critical for hit potential.
 2. **Prioritize Produced Content:** The high positive skew in Acousticness shows that most hits are non-acoustic. Focus curation on produced/electronic textures for mainstream success.
 3. **Broaden Emotional Range:** Mood (Valence) is balanced in popular music. Focus on **energy consistency** rather than sticking to just "happy" or "sad" songs.
 
 ---
 
-## 🎓 Project Credits
+## 🎓 Project Credits:
 This analysis was developed as part of the **Applied Statistics for Data Analytics** course by **DeepLearning.AI** on Coursera. It demonstrates proficiency in applying statistical models to solve business-oriented problems in the media and entertainment domain.
----
 
-## 👤 About the Author
+---
+## 👤 About the Author:
 **Ayushi Gajendra** 
 
 *Data Analyst | Ex-Startup Co-founder*
