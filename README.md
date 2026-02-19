@@ -145,10 +145,16 @@ It measures the strength and direction of a relationship:
 This analysis was developed as part of the **Applied Statistics for Data Analytics** course by **DeepLearning.AI** on Coursera. It demonstrates proficiency in applying statistical models to solve business-oriented problems in the media and entertainment domain.
 
 ---
-## 👤 About the Author:
+## 👤 About the Author
 **Ayushi Gajendra** 
 
-*Data Analyst | Ex-Startup Co-founder*
-* **7+ Years** of experience in business operations and strategic growth.
-* I specialize in turning raw data into **clear business decisions**.
-* My goal is to help companies stop "guessing" and start growing using data.
+*Data Analyst | Former EdTech Co-Founder*
+
+* **7+ Years** of experience in business operations, strategic growth, and entrepreneurial leadership.
+* I specialize in bridging the gap between raw data and **high-stakes business decisions**.
+* My goal is to help organizations move beyond "gut feeling" to drive growth through evidence-based strategy.
+
+---
+
+### 🔗 Connect with me:
+[LinkedIn]((https://www.linkedin.com/in/ayushi-gajendra/))
